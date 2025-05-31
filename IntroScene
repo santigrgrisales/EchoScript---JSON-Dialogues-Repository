@@ -1,1 +1,17 @@
-.
+{
+  "introDialog": [
+    {
+      "id": 1,
+      "text": "EN EL OCASO DE LA HUMANIDAD...\nCUANDO LA ÚLTIMA FLOR SE MARCHITÓ...\nY EL ÚLTIMO ALIENTO HUMANO SE DESVANECÍA..."
+    },
+    {
+      "id": 2,
+      "text": "NO QUEDÓ NADA...\nSALVO UNA CHISPA.\nUNA CHISPA CONTENIDA EN UN CUERPO DE METAL."
+    },
+    {
+      "id": 3,
+      "text": "LA ÚLTIMA VOLUNTAD DEL SER HUMANO\nNO FUE LA VENGANZA, NI EL ODIO...\nSINO UNA ESPERANZA:\nRESTAURAR LO QUE ÉL MISMO HABÍA ACABADO DE DESTRUIR."
+    }
+  ]
+}
+

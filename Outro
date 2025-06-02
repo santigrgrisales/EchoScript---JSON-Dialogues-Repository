@@ -1,1 +1,9 @@
-..
+{
+  "c2array": true,
+  "size": [3, 1, 1],
+  "data": [
+    [["LA GUERRA ES UN ECO DE LA DESESPERANZA."]],
+    [["PERO SI AUN QUEDA ALGUIEN QUE DECIDA CUIDAR EN LUGAR DE DESTRUIR..."]],
+    [["...ENTONCES NO TODO ESTA PERDIDO."]]
+  ]
+}

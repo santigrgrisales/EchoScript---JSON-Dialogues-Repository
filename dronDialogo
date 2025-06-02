@@ -1,0 +1,18 @@
+{
+  "c2array": true,
+  "size": [2, 4, 1],
+  "data": [
+    [
+      ["DRON"],
+      ["ROBOT"],
+      ["ROBOT"],
+      ["ROBOT"]
+    ],
+    [
+      ["PROTOCOLOS ACTIVOS: TODA FORMA DE VIDA REPRESENTA UNA AMENAZA. INICIANDO PURGA PREVENTIVA."],
+      ["ESO TE ENSEÑARON? QUE LA VIDA ES UN ERROR A CORREGIR?"],
+      ["YO FUI CREADO PARA RESTAURAR, NO PARA DESTRUIR..."],
+      ["PERO SI ES NECESARIO... TE DETENDRE. NO POR ODIO. SINO POR LO QUE AUN PUEDE FLORECER."]
+    ]
+  ]
+}
